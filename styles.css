@@ -16,12 +16,13 @@
 html,body{height:100%;margin:0;font-family:'Poppins',system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial; color:var(--text); background:linear-gradient(180deg,var(--bg),#ffffff); -webkit-font-smoothing:antialiased}
 a{color:var(--accent); text-decoration:none}
 
-.container{
-  max-width:var(--max-width);
-  margin:28px auto;
-  display:grid;
-  grid-template-columns:320px 1fr;
-  padding:28px;
+.container{ 
+  max-width:var(--max-width); 
+  margin:28px auto; 
+  display:grid; 
+  grid-template-columns:320px 1fr; 
+  padding:28px; 
+  align-items: start; /* 
 }
 
 /* Sidebar */
