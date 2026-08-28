@@ -26,7 +26,6 @@ EmelineDS85.github.io/
     </header>
     <section class="about">
         <h2>À propos</h2>
-        <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=BD0000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Bonjour;Je+suis+une+lycenne+en+terminale+passionnee+de+programmation+%E2%9C%A9" width="70%" />
         <a href="about.html" 
             color: #0066cc;
             text-decoration: none;>En savoir plus</a>
