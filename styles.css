@@ -19,6 +19,7 @@ a{color:var(--accent); text-decoration:none}
 
 .container{
   max-width:var(--max-width);
+  margin:28px auto;
   display:grid;
   grid-template-columns:320px 1fr;
   gap:var(--gap);
