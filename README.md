@@ -41,7 +41,7 @@ EmelineDS85.github.io/
             padding: 15px;
             margin-bottom: 15px;
             border-radius: 5px;>
-            <h3><a href="projects/projet2/">Projet 2</a></h3>
+            <h3><a href="https://github.com/EmelineDS85/EmelineDS85/blob/main/PenduEmeline.py">Projet 2</a></h3>
             <p>Un pendu créer en python en classe de première.</p>
         </div>
     </section>
