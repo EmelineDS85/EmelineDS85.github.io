@@ -1,9 +1,9 @@
 :root{
   --accent:#7c3aed;       /* violet */
   --accent2:#e11d48;     /* rouge */ 
-  --muted:#6b7280;
-  --bg:#f8f5fb;
-  --paper:#ffedc2;
+  --muted:#ffe8b3;
+  --bg:#ffedc2;
+  --paper:#ffffff;
   --text:#111827;
   --radius:12px;
   --gap:24px;
