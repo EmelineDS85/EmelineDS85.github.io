@@ -10,6 +10,7 @@
   --max-width:1000px;
   --shadow: 0 6px 18px rgba(17,24,39,0.06);
   --accent-gradient: linear-gradient(90deg,var(--accent),var(--accent2));
+  --print-margin:12mm;
 }
 
 *{box-sizing:border-box}
