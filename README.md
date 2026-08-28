@@ -58,8 +58,8 @@ EmelineDS85.github.io/
         <div class="project-grid">
           <div class="proj">
             <h5>Projet Python</h5>
-            <p>Un pendu créé en python en cours de NSI en première avec obligation d'utiliser "turtle" :</p>
-            <a href="https://github.com/EmelineDS85/EmelineDS85/blob/main/PenduEmeline.py"> Pendu </a>
+            <p>Voici mon tout premier projet programmé en python pendant mes cours de NSI en première. Le programme devait être un jeu avec obligation d'utiliser "turtle" :</p>
+            <a href="https://github.com/EmelineDS85/EmelineDS85/blob/main/PenduEmeline.py"> Mon jeu : le pendu </a>
           </div>
           <div class="proj">
             <h5>Projet B</h5>
