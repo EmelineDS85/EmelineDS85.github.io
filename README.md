@@ -2,6 +2,7 @@
   <!doctype html>
   <html lang="fr">
   <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Merriweather:wght@300;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://github.com/EmelineDS85/EmelineDS85.github.io/blob/main/styles.css">
 </head>
