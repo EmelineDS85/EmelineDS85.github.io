@@ -62,7 +62,7 @@ EmelineDS85.github.io/
             <a href="https://github.com/EmelineDS85/EmelineDS85/blob/main/PenduEmeline.py"> Mon jeu : le pendu </a>
           </div>
           <div class="proj">
-            <h5>Projet B</h5>
+            <h5>Projet HTML</h5>
             <p>Une phrase décrivant le projet et votre rôle.</p>
           </div>
         </div>
