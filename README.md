@@ -49,7 +49,7 @@
         <h3>Formation</h3>
         <div class="card small">
           <h4>Baccalauréat Général — Lycée Léonard de Vinci</h4>
-          <p>2026/2027 — Montaigu</p>
+          <p class="meta">2026/2027 — Montaigu</p>
         </div>
       </section>
       <section class="projects">
