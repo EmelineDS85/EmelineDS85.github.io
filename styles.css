@@ -51,9 +51,9 @@ a{color:var(--accent); text-decoration:none}
 .role{margin:0;color:var(--muted);font-weight:600;font-size:0.95rem}
 
 .sidebar h3{width:100%;margin-top:12px;margin-bottom:8px;font-size:0.95rem;color:var(--accent)}
-.contact ul, .languages ul{list-style:none;padding:0;margin:0;font-size:0.9rem;color:var(--muted)}
+.contact ul{list-style:none;padding:0;margin:0;font-size:0.9rem;color:var(--muted)}
 .contact li{margin:6px 0;color:var(--accent2)}
-.languages ul{list-style:none;padding:0;margin:0;font-size:0.9rem;color:var(--muted)}
+.languages ul{list-style:none;padding:0;margin:0;font-size:0.9rem;color:var(--accent2)}
 .languages li{margin:6px 0;color:var(--accent2)}
 .skills .skill{width:100%;margin-bottom:10px}
 .skill span{display:block;font-size:0.9rem;margin-bottom:6px}
