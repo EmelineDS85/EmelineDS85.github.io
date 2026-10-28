@@ -37,6 +37,9 @@
           <li>Français — natif</li>
           <li>Anglais — LV1</li>
           <li>Espagnol - LV2</li>
+            <p>Français — natif</p>
+            <p>Anglais — LV1</p>
+            <p>Espagnol - LV2</p>
         </ul>
       </section>
     </aside>
