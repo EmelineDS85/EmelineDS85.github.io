@@ -35,7 +35,8 @@
         <h3>Langues</h3>
         <ul>
           <li>Français — natif</li>
-          <li>Anglais — courant</li>
+          <li>Anglais — LV1</li>
+          <li>Espagnol - LV2</li>
         </ul>
       </section>
     </aside>
@@ -48,7 +49,7 @@
         <h3>Formation</h3>
         <div class="card small">
           <h4>Baccalauréat Général — Lycée Léonard de Vinci</h4>
-          <p class="meta">2026/2027 — Montaigu</p>
+          <p>2026/2027 — Montaigu</p>
         </div>
       </section>
       <section class="projects">
