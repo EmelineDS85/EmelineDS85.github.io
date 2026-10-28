@@ -1,7 +1,7 @@
 :root{
-  --accent:#D494F2;       /* violet */
-  --accent2:#ffe8b3;     /* beige */ 
-  --muted:#ffe8b3;
+  --accent:#B647F5;     /* violet */
+  --accent2:#D494F2;     /* autre violet */ 
+  --muted:#ffe8b3;        /* beige */
   --bg:#ffedc2;
   --paper:#ffffff;
   --text:#111827;
@@ -52,7 +52,7 @@ a{color:var(--accent); text-decoration:none}
 
 .sidebar h3{width:100%;margin-top:12px;margin-bottom:8px;font-size:0.95rem;color:var(--accent)}
 .contact ul, .languages ul{list-style:none;padding:0;margin:0;font-size:0.9rem;color:var(--muted)}
-.contact li{margin:6px 0;color:var(--muted)}
+.contact li{margin:6px 0;color:var(--accent2)}
 .skills .skill{width:100%;margin-bottom:10px}
 .skill span{display:block;font-size:0.9rem;margin-bottom:6px}
 .bar{background:linear-gradient(90deg,#fff,#fff);height:8px;border-radius:999px;padding:2px;background-clip:padding-box;border:1px solid rgba(0,0,0,0.04)}
@@ -69,7 +69,7 @@ a{color:var(--accent); text-decoration:none}
   gap:18px;
 }
 .intro .summary-title{font-family:'Merriweather',serif;color:var(--accent);margin:0;font-weight:700}
-.summary{margin:6px 0 0;color:var(--muted);line-height:1.5}
+.summary{margin:6px 0 0;color:var(--accent2);line-height:1.5}
 
 h3{margin:0 0 12px 0;color:#0f172a}
 .card{background:linear-gradient(180deg,#fff,#fbfbff);padding:12px;border-radius:10px;border:1px solid rgba(15,23,42,0.03)}
@@ -88,7 +88,7 @@ h3{margin:0 0 12px 0;color:#0f172a}
   opacity:0.7;
 }
 
-.meta{color:var(--muted);font-size:0.9rem;margin:6px 0}
+.meta{color:var(--accent2);font-size:0.9rem;margin:6px 0}
 
 .project-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
 .proj{background:linear-gradient(180deg,#fff,#fcfdff);padding:10px;border-radius:10px;border:1px solid rgba(15,23,42,0.03)}
