@@ -34,9 +34,9 @@
       <section class="languages">
         <h3>Langues</h3>
         <ul>
-            <p>Français — natif</p>
-            <p>Anglais — LV1</p>
-            <p>Espagnol - LV2</p>
+          <p>Français — natif</p>
+          <p>Anglais — LV1</p>
+          <p>Espagnol - LV2</p>
         </ul>
       </section>
     </aside>
